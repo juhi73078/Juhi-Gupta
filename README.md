@@ -1,2 +1,3 @@
-# Juhi-Gupta
+# mjcollege-demo
 this is my first git repository
+author-juhi gupta
